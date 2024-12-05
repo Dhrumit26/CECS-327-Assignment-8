@@ -1,4 +1,5 @@
 <img width="1512" alt="Screenshot 2024-12-05 at 4 54 24 AM" src="https://github.com/user-attachments/assets/317ae7c7-2b95-48fa-b40d-1fe1e551afb3">
+
 # IoT System: End-to-End Implementation
 **Dhrumit Savaliya**
 **Smit Lila**
